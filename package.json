@@ -12,6 +12,7 @@
     "classnames": "^2.2.6",
     "js-cookie": "^2.2.1",
     "next": "10.0.6",
+    "postcss": "^8.4.29",
     "puppeteer-core": "^7.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
