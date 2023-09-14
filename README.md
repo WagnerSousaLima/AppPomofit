@@ -9,7 +9,7 @@ O Pomofit é um aplicativo desenvolvido em React com Next.js que utiliza a técn
 
 - **Técnica Pomodoro:** O aplicativo utiliza a técnica Pomodoro para dividir o tempo de trabalho em períodos de foco e intervalos regulares.
 
-- **Incentivo à Atividade Física:** Durante os intervalos, o Pomodoro Health Assistant incentiva os usuários a realizar exercícios físicos curtos e eficazes para melhorar a saúde.
+- **Incentivo à Atividade Física:** Durante os intervalos, o Pomofit incentiva os usuários a realizar exercícios físicos curtos e eficazes para melhorar a saúde.
 
 - **Notificações Personalizadas:** O aplicativo envia notificações amigáveis para lembrar os usuários de se movimentarem e se cuidarem durante o dia de trabalho.
 
@@ -24,10 +24,10 @@ Este projeto é uma solução inovadora para promover um estilo de vida saudáve
 Para executar o aplicativo localmente, siga estas etapas:
 
 1. Clone o repositório para o seu ambiente de desenvolvimento.
-2. Instale as dependências com `npm install` ou `yarn install`.
-3. Inicie o servidor de desenvolvimento com `npm run dev` ou `yarn dev`.
+2. Instale as dependências com  `yarn install`.
+3. Inicie o servidor de desenvolvimento com  `yarn dev`.
 
-Certifique-se de ter o Node.js e o npm (ou yarn) instalados em seu sistema.
+Certifique-se de ter o Node.js e o yarn instalados em seu sistema.
 
 ## Contribuições
 
