@@ -1,7 +1,7 @@
 <h1 align="center"> Pomofit </h1>
 <img align="center" alt=banner-principal src="/public/icons/bannerpomofit.png">
 
-## Descrição
+## Descrição 
 
 O Pomofit é um aplicativo desenvolvido em React com Next.js que utiliza a técnica Pomodoro para melhorar a saúde e o bem-estar dos usuários, especialmente para aqueles que passam longas horas trabalhando. Este aplicativo promove uma rotina saudável, incentivando a prática de exercícios físicos durante os intervalos do Pomodoro.
 
